@@ -1,0 +1,15 @@
+# Sample Sorter - AENDY STUDIO
+# Requirements for the sample sorting application
+
+# Core dependencies
+# tkinter is included with Python standard library
+# sqlite3 is included with Python standard library
+# os, threading, datetime are included with Python standard library
+
+# No external dependencies required
+# This application uses only Python standard library modules
+
+# Optional: For development and testing
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0 
